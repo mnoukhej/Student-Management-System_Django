@@ -1,4 +1,4 @@
-# project
+# 📁 Student Management System Django
 
 ## Project Overview
 
